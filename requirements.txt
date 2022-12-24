@@ -68,14 +68,14 @@ numpy==1.24.0
     #   matplotlib
     #   mediapipe
     #   opencv-contrib-python
-    #   opencv-python
+    #   opencv-python-headless
     #   pandas
     #   pyarrow
     #   pydeck
     #   streamlit
 opencv-contrib-python==4.6.0.66
     # via mediapipe
-opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
     # via -r requirements.in
 packaging==22.0
     # via
